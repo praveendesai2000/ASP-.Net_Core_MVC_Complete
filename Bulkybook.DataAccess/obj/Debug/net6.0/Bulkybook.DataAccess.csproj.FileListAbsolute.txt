@@ -1,0 +1,17 @@
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\obj\Debug\net6.0\Bulkybook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\obj\Debug\net6.0\Bulkybook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\obj\Debug\net6.0\Bulkybook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\obj\Debug\net6.0\Bulkybook.DataAccess.AssemblyInfo.cs
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\obj\Debug\net6.0\Bulkybook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\bin\Debug\net6.0\Bulkybook.DataAccess.deps.json
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\bin\Debug\net6.0\Bulkybook.DataAccess.runtimeconfig.json
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\bin\Debug\net6.0\Bulkybook.DataAccess.dll
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\bin\Debug\net6.0\Bulkybook.DataAccess.pdb
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\bin\Debug\net6.0\Bulkybook.Models.dll
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\bin\Debug\net6.0\Bulkybook.Models.pdb
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\obj\Debug\net6.0\Bulkybook.DataAccess.csproj.CopyComplete
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\obj\Debug\net6.0\Bulkybook.DataAccess.dll
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\obj\Debug\net6.0\refint\Bulkybook.DataAccess.dll
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\obj\Debug\net6.0\Bulkybook.DataAccess.pdb
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\obj\Debug\net6.0\Bulkybook.DataAccess.genruntimeconfig.cache
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.DataAccess\obj\Debug\net6.0\ref\Bulkybook.DataAccess.dll

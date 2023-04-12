@@ -1,0 +1,12 @@
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\bin\Debug\net6.0\Bulkybook.Models.deps.json
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\bin\Debug\net6.0\Bulkybook.Models.dll
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\bin\Debug\net6.0\Bulkybook.Models.pdb
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\obj\Debug\net6.0\Bulkybook.Models.csproj.AssemblyReference.cache
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\obj\Debug\net6.0\Bulkybook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\obj\Debug\net6.0\Bulkybook.Models.AssemblyInfoInputs.cache
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\obj\Debug\net6.0\Bulkybook.Models.AssemblyInfo.cs
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\obj\Debug\net6.0\Bulkybook.Models.csproj.CoreCompileInputs.cache
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\obj\Debug\net6.0\Bulkybook.Models.dll
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\obj\Debug\net6.0\refint\Bulkybook.Models.dll
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\obj\Debug\net6.0\Bulkybook.Models.pdb
+C:\Users\2152757\OneDrive - Cognizant\Desktop\practice\Bulkybook\Bulkybook.Models\obj\Debug\net6.0\ref\Bulkybook.Models.dll
