@@ -1,9 +1,29 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <ItemGroup>
+	  
+	
+    <PackageReference Include="MailKit" Version="4.1.0" />
+	  
+	
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="6.0.15" />
+	  
+	
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.15" />
+	  
+	
+    <PackageReference Include="MimeKit" Version="4.1.0" />
+	  
+	
+    <PackageReference Include="System.Net.Security" Version="4.3.2" />
+	
+	
+  </ItemGroup>
 
 </Project>

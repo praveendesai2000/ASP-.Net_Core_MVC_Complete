@@ -48,6 +48,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.4, )"
@@ -65,6 +73,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "System.Net.Security": {
+              "target": "Package",
+              "version": "[4.3.2, )"
             }
           },
           "imports": [
@@ -126,6 +138,105 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "System.Net.Security": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\2152757\\OneDrive - Cognizant\\Desktop\\practice\\Bulkybook\\Bulkybook.Utility\\Bulkybook.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2152757\\OneDrive - Cognizant\\Desktop\\practice\\Bulkybook\\Bulkybook.Utility\\Bulkybook.Utility.csproj",
+        "projectName": "Bulkybook.Utility",
+        "projectPath": "C:\\Users\\2152757\\OneDrive - Cognizant\\Desktop\\practice\\Bulkybook\\Bulkybook.Utility\\Bulkybook.Utility.csproj",
+        "packagesPath": "C:\\Users\\2152757\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2152757\\OneDrive - Cognizant\\Desktop\\practice\\Bulkybook\\Bulkybook.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\2152757\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "System.Net.Security": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -176,6 +287,12 @@
             "projectReferences": {
               "C:\\Users\\2152757\\OneDrive - Cognizant\\Desktop\\practice\\Bulkybook\\Bulkybook.DataAccess\\Bulkybook.DataAccess.csproj": {
                 "projectPath": "C:\\Users\\2152757\\OneDrive - Cognizant\\Desktop\\practice\\Bulkybook\\Bulkybook.DataAccess\\Bulkybook.DataAccess.csproj"
+              },
+              "C:\\Users\\2152757\\OneDrive - Cognizant\\Desktop\\practice\\Bulkybook\\Bulkybook.Models\\Bulkybook.Models.csproj": {
+                "projectPath": "C:\\Users\\2152757\\OneDrive - Cognizant\\Desktop\\practice\\Bulkybook\\Bulkybook.Models\\Bulkybook.Models.csproj"
+              },
+              "C:\\Users\\2152757\\OneDrive - Cognizant\\Desktop\\practice\\Bulkybook\\Bulkybook.Utility\\Bulkybook.Utility.csproj": {
+                "projectPath": "C:\\Users\\2152757\\OneDrive - Cognizant\\Desktop\\practice\\Bulkybook\\Bulkybook.Utility\\Bulkybook.Utility.csproj"
               }
             }
           }
@@ -190,15 +307,23 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+            "Microsoft.AspNetCore.Authentication.Facebook": {
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.AspNetCore.Razor.Runtime": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.4, )"
             },
@@ -208,9 +333,13 @@
               "target": "Package",
               "version": "[7.0.4, )"
             },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+            "Stripe.net": {
               "target": "Package",
-              "version": "[6.0.13, )"
+              "version": "[41.13.0, )"
+            },
+            "System.Net.Security": {
+              "target": "Package",
+              "version": "[4.3.2, )"
             }
           },
           "imports": [
